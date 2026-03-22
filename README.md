@@ -4,9 +4,9 @@
 ## Languages
 [Russian](./Languages/1.%20Russian.md)
 [Ukrainian](./Languages/2.%20Ukrainian.md)
-[Belarusian](./Languages/2.%20Belarusian.md)
-[Bulgarian](./Languages/2.%20Bulgarian.md)
-[Serbian](./Languages/2.%20Serbian.md)
+[Belarusian](./Languages/3.%20Belarusian.md)
+[Bulgarian](./Languages/4.%20Bulgarian.md)
+[Serbian](./Languages/5.%20Serbian.md)
 ## Rules
 - **A** - Reversible (One-to-one)
 - **B** - Phonetic (English-friendly)
